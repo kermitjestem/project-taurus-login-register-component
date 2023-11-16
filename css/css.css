@@ -38,7 +38,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 30rem;
+  width: 70%;
   height: 15rem;
   position: absolute;
   top: 50%;
@@ -100,6 +100,14 @@ body {
   justify-content: space-between;
   left: -7rem;
   top: -2rem;
+}
+.login-registration .card form img.show-password-image {
+  position: absolute;
+  height: 1.5rem;
+  width: 1.5rem;
+  margin-top: 6.9rem;
+  left: 20rem;
+  cursor: pointer;
 }
 .login-registration .card h4 {
   text-align: center;

@@ -47,7 +47,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  width: 30rem;
+  width: 70%;
   height: 15rem;
   position: absolute;
   top: 50%;
@@ -131,6 +131,21 @@ body {
       left: -7rem;
       top: -2rem;
 
+      img.show-password-image {
+
+        
+
+        position: absolute;
+        height: 1.5rem;
+        width: 1.5rem;
+        margin-top: 6.9rem;
+        left: 20rem;
+        cursor: pointer;
+
+      
+
+
+      }
       
  
     
@@ -152,6 +167,7 @@ body {
       border: solid;
       border-radius: 5px;
       background-color: rgba(255, 255, 255, 0.8);
+  
     }
 
     .button {
